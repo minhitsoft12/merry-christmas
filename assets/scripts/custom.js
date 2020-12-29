@@ -250,7 +250,7 @@ function twitAnimation() {
     var li = $('.twitArea ul > li').first();
     var liCount = $('.twitArea ul > li').length;
 
-    var top = ul.css('top').replace('px', '');
+    // var top = ul.css('top').replace('px', '');
     var h = li.height() + 50;
     var newTop = top - h;
 

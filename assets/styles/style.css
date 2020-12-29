@@ -118,6 +118,9 @@ img.moon { display:block; width:447px; height:294px; margin:70px auto; }
 .pfolds .uc-container .fContent.text { padding:0px 20px 10px 20px; }
 .pfolds .uc-container.video .fContent { height:600px; padding:10px; }
 .pfolds .uc-container.video .uc-final-content img { position:absolute; top:-13px; left:0px; }
+.pfolds .uc-container.video .uc-final-content center img {
+    width: 100%;
+}
 .pfolds .uc-container .fContent a { color:#082028; font-size:18px; }
 .pfolds .uc-container .fContent p { margin:0px 0px 25px 0px; font-family:Arial; font-size:17px; color:#082028; text-align:justify; }
 
