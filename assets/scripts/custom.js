@@ -1,7 +1,7 @@
 function loading() {
     $('body').css('height', $(window).height());
     document.getElementById("loading").style.visibility = "visible";
-    setTimeout('loadingVisible()', 2500);
+    setTimeout('loadingVisible()', 1000);
 }
 function loadingVisible() {
     document.getElementById("loading").style.visibility = "hidden";
