@@ -1,7 +1,8 @@
 repo_name: minhitsoft12/merry-christmas
 report_id: bd87aac71451a6ee9cb5e607531ca3a7
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-06T03:38:19+00:00'
+timestamp: '2024-01-05T08:28:43+00:00'
 requested_by: minhitsoft12
 provider: github
 branch: master
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/minhitsoft12/merry-christmas
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -25,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/minhitsoft12/merry-christmas
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -34,6 +37,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/minhitsoft12/merry-christmas
   detection_source: Repo Metadata
 - name: HTML
   description: Hypertext Markup Language for creating web pages.
@@ -41,6 +45,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source_url: https://github.com/minhitsoft12/merry-christmas/blob/master/assets/images/Twitter/bird2.html
   detection_source: assets/images/Twitter/bird2.html
   last_updated_by: minhitsoft
   last_updated_on: 2020-12-28 17:17:16.000000000 Z
